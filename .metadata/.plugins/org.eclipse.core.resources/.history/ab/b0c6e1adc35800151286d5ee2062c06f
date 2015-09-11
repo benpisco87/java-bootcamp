@@ -1,0 +1,10 @@
+
+public class Hospital extends Construction{
+	
+	
+	@Override
+	public String Description()
+	{
+		return "This is a Hospital";
+	}
+}

@@ -1,0 +1,16 @@
+
+public class House extends Construction{
+
+
+	public House()
+	{
+		
+	}
+
+	@Override
+	public String Description()
+	{
+		return "This is a House";
+	}
+	
+}

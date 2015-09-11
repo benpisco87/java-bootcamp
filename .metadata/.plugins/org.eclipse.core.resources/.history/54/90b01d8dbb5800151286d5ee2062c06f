@@ -1,0 +1,11 @@
+
+public class Hospital {
+	
+	public Hospital()
+	{}
+	
+	public String Description()
+	{
+		return "This is a Hospital";
+	}
+}

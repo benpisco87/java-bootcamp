@@ -1,0 +1,25 @@
+
+public class Factory {
+	
+	//type of the construction(house,hospital...)
+	public String Type;
+	
+	
+	//constructor
+	public Factory (String Type)
+	{
+		this.Type=Type;
+	}
+	
+	public Construction myConstruction()
+	{
+		Switch(this.Type){
+			
+			//Case "House": return new House();
+				
+			//Case "Hospital":
+		}	
+			
+	}
+	
+}

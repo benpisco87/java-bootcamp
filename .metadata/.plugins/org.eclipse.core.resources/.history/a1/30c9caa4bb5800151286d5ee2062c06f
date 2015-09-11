@@ -1,0 +1,13 @@
+
+public abstract class Construction {
+	
+	public Construction()
+	{
+	}
+	
+	public String Description()
+	{
+		return "This is a construction";
+	}
+
+}

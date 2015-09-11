@@ -1,0 +1,14 @@
+
+public class House extends Construction{
+
+		
+	public House()
+	{}
+
+	
+	public String Description()
+	{
+		return "This is a House";
+	}
+	
+}
