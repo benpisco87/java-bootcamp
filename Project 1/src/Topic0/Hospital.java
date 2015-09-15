@@ -1,3 +1,4 @@
+package Topic0;
 
 public class Hospital extends Construction{
 	
