@@ -1,4 +1,4 @@
-package shoppingcart;
+package shoppingcart.model;
 
 import javax.persistence.Entity;
 

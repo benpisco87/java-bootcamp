@@ -1,4 +1,4 @@
-package shoppingcart;
+package shoppingcart.model;
 
 import javax.persistence.*;
 import javax.persistence.Enumerated;
@@ -20,7 +20,7 @@ public class User {
 	@Column(name="type")
 	private userType type;
 	
-	protected User() {
+	public User() {
 	}
 
 

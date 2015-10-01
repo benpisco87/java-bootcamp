@@ -1,4 +1,4 @@
-package shoppingcart;
+package shoppingcart.model;
 
 public enum userType {
 	
